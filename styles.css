@@ -74,10 +74,7 @@
     scroll-behavior: smooth;
   }
 }
-div{
- text-align: justify;
 
-}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
